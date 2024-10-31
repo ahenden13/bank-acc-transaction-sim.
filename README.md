@@ -1,4 +1,4 @@
-# bank accounts transaction simultor
+# bank accounts transaction simulator
 
 //Java principles: reading user input with scanner, interfaces, inheritance.
 
